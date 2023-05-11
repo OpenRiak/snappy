@@ -1,8 +1,27 @@
-# Editors.
-*.sw*
-.vscode
+# ===== Common Development Tools =====
+*.bak
+*.dump
+*.iml
+*.orig
+*.plt
+*.sublime-project
+*.sublime-workspace
+*.swo
+*.swp
+*.tmp
+*~
 .DS_Store
+.concrete/
+.idea/
+.project
+.settings/
+.tm_properties
+.vscode/
+/*.txt
+erln8.config
+tmp/
 
-# Build directory.
+# ===== Project-specific Elements =====
+
 build/
 out/
