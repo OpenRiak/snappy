@@ -24,4 +24,5 @@ tmp/
 # ===== Project-specific Elements =====
 
 build/
+/bazel-*
 out/
