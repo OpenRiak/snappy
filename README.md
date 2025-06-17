@@ -1,6 +1,6 @@
 Snappy, a fast compressor/decompressor.
 
-[![Build Status](https://github.com/google/snappy/actions/workflows/build.yml/badge.svg)](https://github.com/google/snappy/actions/workflows/build.yml)
+[![Build Status](https://github.com/OpenRiak/snappy/actions/workflows/build.yml/badge.svg)](https://github.com/OpenRiak/snappy/actions/workflows/build.yml)
 
 Introduction
 ============
